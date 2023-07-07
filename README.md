@@ -2,7 +2,9 @@
 
   # Welcome to my GitHub profile! 😎
 
-  ## Languages I have used to realize projects
+  # Some things I'm familiar with 🧐
+
+  ## Languages
   ![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)
   ![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)
   ![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)
@@ -11,7 +13,7 @@
   ![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash)
   ![Powershell](https://img.shields.io/badge/powershell-black?style=for-the-badge&logo=powershell)
 
-  ## Technologies & Frameworks I have used in my projects
+  ## Technologies & Frameworks
   ![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)
   ![Angular](https://img.shields.io/badge/angular-black?style=for-the-badge&logo=angular)
   ![Spring](https://img.shields.io/badge/spring-black?style=for-the-badge&logo=spring)
@@ -21,16 +23,16 @@
   ![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)
   ![Kubernetes](https://img.shields.io/badge/kubernetes-black?style=for-the-badge&logo=kubernetes)
 
-  ## Operating Systems I have worked with
+  ## Operating Systems
   ![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)
   ![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)
 
-  ## Databases I have worked with
+  ## Databases
   ![MySQL](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb)
   ![eazyBI](https://img.shields.io/badge/eazybi-black?style=for-the-badge&logo=eazybi)
 
-  ## APIs I have worked with
+  ## APIs
   ![Twitter](https://img.shields.io/badge/twitter-black?style=for-the-badge&logo=twitter)
   ![Discord](https://img.shields.io/badge/discord-black?style=for-the-badge&logo=discord)
   ![eazyBI](https://img.shields.io/badge/eazybi-black?style=for-the-badge&logo=eazybi)
