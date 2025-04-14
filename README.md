@@ -1,42 +1,36 @@
 <div align="center">
 
-  # Welcome to my GitHub profile! 😎
-
-  # Some things I'm familiar with 🧐
+  # Some stuff I use :)
 
   ## Languages
-  ![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)
   ![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)
-  ![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)
   ![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)
   ![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)
+  ![Go](https://img.shields.io/badge/go-black?style=for-the-badge&logo=go)
   ![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash)
-  ![Powershell](https://img.shields.io/badge/powershell-black?style=for-the-badge&logo=powershell)
 
   ## Technologies & Frameworks
   ![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)
   ![Angular](https://img.shields.io/badge/angular-black?style=for-the-badge&logo=angular)
   ![Spring](https://img.shields.io/badge/spring-black?style=for-the-badge&logo=spring)
   ![Express](https://img.shields.io/badge/express-black?style=for-the-badge&logo=express)
-  ![Next](https://img.shields.io/badge/next-black?style=for-the-badge&logo=next)
+  ![NextJS](https://img.shields.io/badge/nextjs-black?style=for-the-badge&logo=nextjs)
   ![Node](https://img.shields.io/badge/node-black?style=for-the-badge&logo=node)
   ![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)
   ![Kubernetes](https://img.shields.io/badge/kubernetes-black?style=for-the-badge&logo=kubernetes)
 
   ## Operating Systems
-  ![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)
+  ![Mac](https://img.shields.io/badge/macos-black?style=for-the-badge&logo=MacOS)
+  ![Windows](https://img.shields.io/badge/windows-black?style=for-the-badge&logo=Windows)
   ![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)
 
   ## Databases
   ![MySQL](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql)
+  ![PostgreSQL](https://img.shields.io/badge/postgresql-black?style=for-the-badge&logo=postgresql)
+  ![SQLite](https://img.shields.io/badge/sqlite-black?style=for-the-badge&logo=sqlite)
   ![MongoDB](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb)
+  ![DynamoDB](https://img.shields.io/badge/dynamodb-black?style=for-the-badge&logo=dynamodb)
   ![eazyBI](https://img.shields.io/badge/eazybi-black?style=for-the-badge&logo=eazybi)
-
-  ## APIs
-  ![Twitter](https://img.shields.io/badge/twitter-black?style=for-the-badge&logo=twitter)
-  ![Discord](https://img.shields.io/badge/discord-black?style=for-the-badge&logo=discord)
-  ![eazyBI](https://img.shields.io/badge/eazybi-black?style=for-the-badge&logo=eazybi)
-  ![BigPicture](https://img.shields.io/badge/bigpicture-black?style=for-the-badge&logo=bigpicture)
 
   ## GitHub Statistics
 
